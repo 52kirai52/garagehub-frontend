@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.app-container {
+  background-color: #d1d5db;
+  min-height: 100vh;
+  overflow: auto;
+}
+
+.app-grid {
+  display: grid;
+  grid-template-areas: "header main" "category main";
+  grid-template-columns: 180px 1076px;
+  grid-template-rows: 160px 596px;
+  gap: 8px;
+  padding: 8px;
+}
