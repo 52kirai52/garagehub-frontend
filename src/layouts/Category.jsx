@@ -6,9 +6,6 @@ function Category() {
       <div className="category-title">
         <span>카테고리</span>
       </div>
-      <div className="category-content">
-        <div>📁 정비 관리</div>
-      </div>
     </div>
   )
 }
