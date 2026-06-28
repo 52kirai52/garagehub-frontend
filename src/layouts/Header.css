@@ -1,6 +1,6 @@
 .header-container {
   background-color: #ECE9D8;
-  border: 2px solid #0054E3;
+  border: 2px solid #1a6fd4;;
   border-radius: 8px 8px 0 0;
   box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
   overflow: hidden;
@@ -8,7 +8,7 @@
 }
 
 .header-title {
-  background: linear-gradient(to bottom, #0054E3, #0831D9);
+  background: linear-gradient(to bottom, #1a6fd4, #1557c0);
   height: 28px;
   padding-left: 8px;
 }
